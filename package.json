@@ -12,9 +12,6 @@
     "mdNameFormat": "slug",
     "postPath": "source/_posts"
   },
-  "scripts": {
-  "g": "npm run sync && hexo g -d",
-  },
   "dependencies": {
     "hexo": "^3.7.0",
     "hexo-generator-archive": "^0.1.5",
