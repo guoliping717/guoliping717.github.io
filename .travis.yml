@@ -27,4 +27,5 @@ branches:
     - blog-source
 env:
  global:
+   - GH_TOKEN: myblog
    - GH_REF: github.com/guoliping717/guoliping717.github.io.git
