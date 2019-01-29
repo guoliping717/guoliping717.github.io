@@ -10,7 +10,7 @@
     "login": "gordonguo",
     "repo": "gordon.guo",
     "mdNameFormat": "slug",
-    "postPath": "source/_posts"
+    "postPath": "source/_posts/"
   },
   "dependencies": {
     "hexo": "^3.7.0",
